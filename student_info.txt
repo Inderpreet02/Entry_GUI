@@ -1,0 +1,3 @@
+{'2010990305': {'name': 'Inderpreet Singh', 'rollno': '2010990305', 'percentage': '99.99'}}
+{'15': {'name': 'Avnee', 'rollno': '15', 'percentage': '-34'}}
+{'15': {'name': 'avneet', 'rollno': '15', 'percentage': '0'}}
